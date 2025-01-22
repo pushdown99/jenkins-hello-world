@@ -1,2 +1,2 @@
-HOST=web1.localhost
-PORT=80
+HOST=localhost
+PORT=4050
